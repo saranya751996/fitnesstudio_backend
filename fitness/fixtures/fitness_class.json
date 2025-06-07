@@ -1,0 +1,38 @@
+[
+  {
+    "model": "fitness.FitnessClass",
+    "pk": "05191f7d-5e41-4ebb-a2c4-1133f17ee9e4",
+    "fields": {
+      "name": "Yoga",
+      "instructor": "Lennon",
+      "date": "2025-10-20 10:40:20",
+      "available_slots": 8,
+      "datetime_created": "2021-06-25T10:40:20Z",
+      "datetime_updated": "2021-06-25T10:40:20Z"
+    }
+  },
+  {
+    "model": "fitness.FitnessClass",
+    "pk": "05191f7d-5e41-4ebb-a2c4-1133f17ee9e3",
+    "fields": {
+      "name": "Zumba",
+      "instructor": "McCartney",
+      "date": "2025-09-25 10:40:20",
+      "available_slots": 10,
+      "datetime_created": "2021-06-25T10:40:20Z",
+      "datetime_updated": "2021-06-25T10:40:20Z"
+    }
+  },
+  {
+    "model": "fitness.FitnessClass",
+    "pk": "05191f7d-5e41-4ebb-a2c4-1133f17ee9e1",
+    "fields": {
+      "name": "HIIT",
+      "instructor": "Thomas",
+      "date": "2025-09-14 10:40:20",
+      "available_slots": 5,
+      "datetime_created": "2021-06-25T10:40:20Z",
+      "datetime_updated": "2021-06-25T10:40:20Z"
+    }
+  }
+]
